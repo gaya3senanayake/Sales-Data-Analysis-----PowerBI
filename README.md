@@ -1,5 +1,11 @@
 # PowerBI-Project : Sales Analysis
-This repository consists of 3 PowerBI dashboards. 
+This repository consists of 3 PowerBI dashboards.
+
+# Data Set Description
+
+# Data Model
+![image](https://github.com/gaya3senanayake/PowerBI-Projects/blob/main/Executive%20Summary.jpg)
+
 # Executive Summary-Dashboard-PowerBI
 
 ![image](https://github.com/gaya3senanayake/PowerBI-Projects/blob/main/Executive%20Summary.jpg)
