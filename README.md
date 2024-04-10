@@ -10,7 +10,7 @@ This repository consists of various PowerBI dashboards that I designed
 
 # Product Level Analysis-Dashboard-PowerBI
 
-![image](https://github.com/gaya3senanayake/PowerBI-Projects/blob/main/Executive%20Summary.jpg)
+![image](https://github.com/gaya3senanayake/PowerBI-Projects/blob/main/Product%20Level%20Analysis.jpg)
 
 ## Data Used
 
