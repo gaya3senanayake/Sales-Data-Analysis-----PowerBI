@@ -4,7 +4,7 @@ This repository consists of 3 PowerBI dashboards.
 # Data Set Description
 
 # Data Model
-![image](https://github.com/gaya3senanayake/PowerBI-Projects/blob/main/Executive%20Summary.jpg)
+![image](https://github.com/gaya3senanayake/Sales-Data-Analysis-----PowerBI/blob/main/DataModel.PNG)
 
 # Executive Summary-Dashboard-PowerBI
 
