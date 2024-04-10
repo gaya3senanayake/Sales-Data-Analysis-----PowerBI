@@ -1,8 +1,16 @@
 # PowerBI-Projects
 This repository consists of various PowerBI dashboards that I designed
-# HR-Dashboard-MySQL-PowerBI
+# Executive Summary-Dashboard-PowerBI
 
-![image](https://user-images.githubusercontent.com/56026296/229609893-b7b1f261-5941-45af-8322-1ccb2535d36b.png)
+![image](https://github.com/gaya3senanayake/PowerBI-Projects/blob/main/Executive%20Summary.jpg)
+
+# Product Performance-Dashboard-PowerBI
+
+![image](https://github.com/gaya3senanayake/PowerBI-Projects/blob/main/Executive%20Summary.jpg)
+
+# Product Level Analysis-Dashboard-PowerBI
+
+![image](https://github.com/gaya3senanayake/PowerBI-Projects/blob/main/Executive%20Summary.jpg)
 
 ## Data Used
 
