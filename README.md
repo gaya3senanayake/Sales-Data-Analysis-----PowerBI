@@ -6,7 +6,7 @@ This repository consists of various PowerBI dashboards that I designed
 
 # Product Performance-Dashboard-PowerBI
 
-![image](https://github.com/gaya3senanayake/PowerBI-Projects/blob/main/Executive%20Summary.jpg)
+![image](https://github.com/gaya3senanayake/PowerBI-Projects/blob/main/Product%20Performance.jpg)
 
 # Product Level Analysis-Dashboard-PowerBI
 
